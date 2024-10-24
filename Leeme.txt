@@ -9,5 +9,6 @@ comida fav:Tacos de tripa
 postre fav:Postre de limon o karlota 
 Edad: 16 años 
 fecha de cumpleaños: 1/07/2008
-Metas: tener una casa grande con piscina, una camioneta del año, hijos, ganar mas de 30,000 a la quincena,tener una casa o terreno en una playa, terminar la prepa 
->>>>>>> Unir_Ramas
+Metas: tener una casa grande con piscina, una camioneta del año, hijos, ganar mas de 30,000 a la quincena,tener una casa o terreno en una playa, terminar la prepa
+ 
+=======>>>>>>> Unir_Ramas
